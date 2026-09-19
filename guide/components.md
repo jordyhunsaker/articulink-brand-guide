@@ -2,8 +2,9 @@
 
 The React component library lives in
 [Articulink/design-system](https://github.com/Articulink/design-system)
-(Storybook + tests). This page covers what the brand package itself ships
-and the shared component vocabulary every Articulink product follows.
+(Storybook + tests) and installs from GitHub Packages as
+`@articulink/design-system`. This page covers what the brand package itself
+ships and the shared component vocabulary every Articulink product follows.
 
 ## CSS-only classes in `@articulink/brand`
 
